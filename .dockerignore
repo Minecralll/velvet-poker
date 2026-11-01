@@ -1,0 +1,6 @@
+data
+.git
+android/.gradle
+android/app/build
+__pycache__
+.env

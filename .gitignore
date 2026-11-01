@@ -1,0 +1,14 @@
+.env
+data/
+__pycache__/
+*.pyc
+android/.gradle/
+android/local.properties
+**/build/
+*.jks
+*.keystore
+
+!android/debug.keystore
+
+node_modules/
+.wrangler/

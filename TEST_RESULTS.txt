@@ -1,0 +1,11 @@
+Velvet Poker 0.5 — 2026-11-01
+Engine tests: 10 PASS
+JS client tests: 2 PASS
+Reference engine: 750 hands + 5000 seven-card rankings MATCH
+Cloudflare tests: 5 PASS, including transfer deduplication and no reward for transfers
+Browser: 4 clients, cashier, transfer, request, peek, preferences, receipts, rapid all-ins and new-hand animation cancellation PASS
+Landscape 740x360 / 844x390 / 960x432 / 1280x720 PASS
+APK ZIP, bundled assets, v2/v3 signature, alignment PASS
+Production Cloudflare code is unchanged from 0.4.
+No physical Android test or account deployment performed.
+Details: VALIDATION_0_5_RU.md
