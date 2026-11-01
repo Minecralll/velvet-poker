@@ -1,0 +1,1 @@
+export const PROMOS={"3e219e16c99cca59b099592afe5ac611ea2dbae19a0faa28fa6bea69834dc94a": {"id": "welcome-100", "points": 100, "single": false}, "65ab470ed791994bfe853cb7721682413cdbefd990f9228de50b4def358fb2c2": {"id": "dark-billion", "points": 1000000000, "single": true}};
